@@ -1,6 +1,6 @@
 # New Site Template
 
-[TODO. There will be project description]
+This is New Site Template.
 
 # Project Goals
 
